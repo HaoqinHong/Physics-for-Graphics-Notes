@@ -4,5 +4,5 @@
 
 * Basic Computer Graphics Knowledge:[GAMES 101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html) by Lingqi Yan@UCSB.
 * Simulation Programming Language:[Taichi Lang](https://docs.taichi-lang.org/) by Yuanming Hu@MIT.
-* Numerical Analysis Foundations by Xiaofang Hu@SWU and Xiurong Zhong@SWU.
+* Numerical Analysis Foundamentals by Xiaofang Hu@SWU and Xiurong Zhong@SWU.
 
