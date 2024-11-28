@@ -1,3 +1,4 @@
+# 一个基本的分形例子，Julia 分形，可以作为理解太极编程语言基础的一个很好的起点。
 import taichi as ti
 import taichi.math as tm
 
